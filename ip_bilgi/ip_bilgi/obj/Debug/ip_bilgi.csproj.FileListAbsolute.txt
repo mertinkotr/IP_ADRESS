@@ -1,0 +1,10 @@
+C:\Users\Mertinko\source\repos\ip_bilgi\ip_bilgi\bin\Debug\ip_bilgi.exe.config
+C:\Users\Mertinko\source\repos\ip_bilgi\ip_bilgi\bin\Debug\ip_bilgi.exe
+C:\Users\Mertinko\source\repos\ip_bilgi\ip_bilgi\bin\Debug\ip_bilgi.pdb
+C:\Users\Mertinko\source\repos\ip_bilgi\ip_bilgi\obj\Debug\ip_bilgi.csprojAssemblyReference.cache
+C:\Users\Mertinko\source\repos\ip_bilgi\ip_bilgi\obj\Debug\ip_bilgi.Form1.resources
+C:\Users\Mertinko\source\repos\ip_bilgi\ip_bilgi\obj\Debug\ip_bilgi.Properties.Resources.resources
+C:\Users\Mertinko\source\repos\ip_bilgi\ip_bilgi\obj\Debug\ip_bilgi.csproj.GenerateResource.cache
+C:\Users\Mertinko\source\repos\ip_bilgi\ip_bilgi\obj\Debug\ip_bilgi.csproj.CoreCompileInputs.cache
+C:\Users\Mertinko\source\repos\ip_bilgi\ip_bilgi\obj\Debug\ip_bilgi.exe
+C:\Users\Mertinko\source\repos\ip_bilgi\ip_bilgi\obj\Debug\ip_bilgi.pdb
